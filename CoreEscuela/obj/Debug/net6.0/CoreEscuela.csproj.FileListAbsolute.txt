@@ -1,0 +1,15 @@
+C:\Users\Administrador\D\platzi\FundamentosDeC#\proyectos\CoreEscuela\bin\Debug\net6.0\CoreEscuela.exe
+C:\Users\Administrador\D\platzi\FundamentosDeC#\proyectos\CoreEscuela\bin\Debug\net6.0\CoreEscuela.deps.json
+C:\Users\Administrador\D\platzi\FundamentosDeC#\proyectos\CoreEscuela\bin\Debug\net6.0\CoreEscuela.runtimeconfig.json
+C:\Users\Administrador\D\platzi\FundamentosDeC#\proyectos\CoreEscuela\bin\Debug\net6.0\CoreEscuela.dll
+C:\Users\Administrador\D\platzi\FundamentosDeC#\proyectos\CoreEscuela\bin\Debug\net6.0\CoreEscuela.pdb
+C:\Users\Administrador\D\platzi\FundamentosDeC#\proyectos\CoreEscuela\obj\Debug\net6.0\CoreEscuela.csproj.AssemblyReference.cache
+C:\Users\Administrador\D\platzi\FundamentosDeC#\proyectos\CoreEscuela\obj\Debug\net6.0\CoreEscuela.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\D\platzi\FundamentosDeC#\proyectos\CoreEscuela\obj\Debug\net6.0\CoreEscuela.AssemblyInfoInputs.cache
+C:\Users\Administrador\D\platzi\FundamentosDeC#\proyectos\CoreEscuela\obj\Debug\net6.0\CoreEscuela.AssemblyInfo.cs
+C:\Users\Administrador\D\platzi\FundamentosDeC#\proyectos\CoreEscuela\obj\Debug\net6.0\CoreEscuela.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\D\platzi\FundamentosDeC#\proyectos\CoreEscuela\obj\Debug\net6.0\CoreEscuela.dll
+C:\Users\Administrador\D\platzi\FundamentosDeC#\proyectos\CoreEscuela\obj\Debug\net6.0\refint\CoreEscuela.dll
+C:\Users\Administrador\D\platzi\FundamentosDeC#\proyectos\CoreEscuela\obj\Debug\net6.0\CoreEscuela.pdb
+C:\Users\Administrador\D\platzi\FundamentosDeC#\proyectos\CoreEscuela\obj\Debug\net6.0\CoreEscuela.genruntimeconfig.cache
+C:\Users\Administrador\D\platzi\FundamentosDeC#\proyectos\CoreEscuela\obj\Debug\net6.0\ref\CoreEscuela.dll
